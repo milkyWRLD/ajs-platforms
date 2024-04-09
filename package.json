@@ -1,0 +1,19 @@
+{
+	"name": "@milkywrld/ajs-platforms",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/milkyWRLD/ajs-platforms.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/milkyWRLD/ajs-platforms/issues"
+	},
+	"homepage": "https://github.com/milkyWRLD/ajs-platforms#readme"
+}
